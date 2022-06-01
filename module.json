@@ -61,6 +61,6 @@
             "entity": "Playlist"
         }
     ],
-    "manifest": "",
+    "manifest": "https://github.com/falkhop/curse-of-strahd-content/blob/main/module.json",
     "download": ""
   }
