@@ -1,0 +1,66 @@
+{
+    "name": "curse-of-strahd-content",
+    "title": "Curse of Strahd Content",
+    "description": "A collection of our CoS content",
+    "version": "1.0.0",
+    "author": "Falk",
+    "minimumCoreVersion": "0.7.5",
+    "compatibleCoreVersion": "9.269",
+    "packs": [
+        {
+            "name": "cos-player-characters",
+            "label": "CoS Player Characters",
+            "path": "./packs/cos-player-characters.db",
+            "entity": "Actor"
+        },        {
+            "name": "cos-nonplayer-characters",
+            "label": "CoS NPCs",
+            "path": "./packs/cos-nonplayer-characters.db",
+            "entity": "Actor"
+        },
+        {
+            "name": "cos-creatures",
+            "label": "CoS Creatures",
+            "path": "./packs/creatures.db",
+            "entity": "Actor"
+        },
+        {
+            "name": "cos-items",
+            "label": "CoS Items",
+            "path": "./packs/items.db",
+            "entity": "Item"
+        },
+        {
+            "name": "cos-scenes",
+            "label": "CoS Scenes",
+            "path": "./packs/scenes.db",
+            "entity": "Scene"
+        },
+        {
+            "name": "cos-journal-entries",
+            "label": "CoS Journal Entries",
+            "path": "./packs/journal-entries.db",
+            "entity": "JournalEntry"
+        },
+        {
+            "name": "cos-macros",
+            "label": "CoS Macros",
+            "path": "./packs/macros.db",
+            "entity": "Macro"
+        },
+        {
+            "name": "cos-roll-tables",
+            "label": "CoS Roll Tables",
+            "path": "./packs/roll-tables.db",
+            "entity": "RollTable"
+        },
+        {
+            "name": "cos-playlists",
+            "label": "CoS Playlists",
+            "path": "./packs/playlists.db",
+            "entity": "Playlist"
+        }
+    ],
+    "manifest": "",
+    "download": ""
+  }
